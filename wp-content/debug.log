@@ -1,0 +1,357 @@
+[05-Feb-2020 04:29:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-editor.php on line 11
+[05-Feb-2020 04:40:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\update.php on line 24
+[05-Feb-2020 04:43:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\media.php on line 16
+[05-Feb-2020 04:48:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\user.php on line 33
+[05-Feb-2020 04:48:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 04:49:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\admin-bar.php on line 23
+[05-Feb-2020 04:49:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api.php on line 15
+[05-Feb-2020 04:49:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-media-image.php on line 18
+[05-Feb-2020 04:51:57 UTC] PHP Notice:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\xampp\htdocs\WP\wp-admin\includes\class-theme-upgrader.php on line 132
+[05-Feb-2020 04:56:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-walker-nav-menu-edit.php on line 17
+[05-Feb-2020 04:59:02 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 1115
+[05-Feb-2020 05:01:01 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-http-curl.php on line 19
+[05-Feb-2020 05:01:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\extras.php on line 10
+[05-Feb-2020 05:01:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\template-functions.php on line 8
+[05-Feb-2020 05:06:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rewrite.php on line 14
+[05-Feb-2020 05:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 05:41:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-controller.php on line 15
+[05-Feb-2020 05:42:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\general-template.php on line 22
+[05-Feb-2020 05:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 05:43:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\pluggable.php on line 9
+[05-Feb-2020 05:45:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-taxonomies-controller.php on line 17
+[05-Feb-2020 05:47:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\post.php on line 20
+[05-Feb-2020 05:52:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-http-curl.php on line 19
+[05-Feb-2020 05:54:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\options.php on line 15
+[05-Feb-2020 07:05:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-http.php on line 10
+[05-Feb-2020 07:06:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\tgmpa\class-tgm-plugin-activation.php on line 35
+[05-Feb-2020 07:06:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
+[05-Feb-2020 07:06:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\misc.php on line 16
+[05-Feb-2020 07:06:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-customize-setting.php on line 538
+[05-Feb-2020 07:07:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\update.php on line 24
+[05-Feb-2020 07:07:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-embed.php on line 9
+[05-Feb-2020 07:09:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-block-parser.php on line 15
+[05-Feb-2020 07:09:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-media.php on line 17
+[05-Feb-2020 07:10:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\media.php on line 16
+[05-Feb-2020 07:30:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\script-loader.php on line 20
+[05-Feb-2020 07:30:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-background.php on line 14
+[05-Feb-2020 07:32:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-oembed-controller.php on line 18
+[05-Feb-2020 07:32:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\tgmpa\class-tgm-plugin-activation.php on line 35
+[05-Feb-2020 07:39:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\fashion-diva\functions.php on line 3
+[05-Feb-2020 07:39:48 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
+[05-Feb-2020 07:42:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\pluggable.php on line 9
+[05-Feb-2020 07:44:37 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\privacy-tools.php on line 18
+[05-Feb-2020 07:45:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\comment-template.php on line 24
+[05-Feb-2020 07:45:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 07:46:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\fashion-diva\functions.php on line 3
+[05-Feb-2020 07:48:35 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-attachments-controller.php on line 17
+[05-Feb-2020 08:04:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\nav-menu.php on line 11
+[05-Feb-2020 08:07:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\script-loader.php on line 20
+[05-Feb-2020 08:07:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\css\style.php on line 7
+[05-Feb-2020 08:14:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\meta-boxes.php on line 22
+[05-Feb-2020 08:16:06 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-oembed-controller.php on line 18
+[05-Feb-2020 08:18:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\script-loader.php on line 20
+[05-Feb-2020 08:19:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\plugins\blossomthemes-instagram-feed\includes\widgets\widget-blossomthemes-instagram-feed.php on line 9
+[05-Feb-2020 08:20:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\template-functions.php on line 8
+[05-Feb-2020 08:21:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\wp-db.php on line 2030
+[05-Feb-2020 08:23:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\comment-template.php on line 24
+[05-Feb-2020 08:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 08:24:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-links.php on line 17
+[05-Feb-2020 08:24:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-settings.php on line 496
+[05-Feb-2020 08:24:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\ajax-actions.php on line 22
+[05-Feb-2020 08:25:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\post.php on line 20
+[05-Feb-2020 08:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 08:26:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 17
+[05-Feb-2020 08:26:59 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\blocks\block.php on line 15
+[05-Feb-2020 08:27:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-dependency.php on line 19
+[05-Feb-2020 08:28:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\pomo\mo.php on line 315
+[05-Feb-2020 08:33:04 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 1115
+[05-Feb-2020 08:34:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\wp-db.php on line 2030
+[05-Feb-2020 08:38:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-date-query.php on line 17
+[05-Feb-2020 08:38:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-date-query.php on line 17
+[05-Feb-2020 08:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 08:38:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 08:39:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-dependency.php on line 19
+[05-Feb-2020 08:39:14 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\functions.wp-scripts.php on line 20
+[05-Feb-2020 08:40:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-media-video.php on line 18
+[05-Feb-2020 08:46:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-requests.php on line 145
+[05-Feb-2020 08:46:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets.php on line 26
+[05-Feb-2020 08:46:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\plugins\blossomthemes-instagram-feed\includes\widgets\widget-blossomthemes-instagram-feed.php on line 9
+[05-Feb-2020 08:47:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\deprecated.php on line 25
+[05-Feb-2020 08:47:55 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\deprecated.php on line 25
+[05-Feb-2020 08:48:17 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\custom-functions.php on line 8
+[05-Feb-2020 08:48:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\template-functions.php on line 8
+[05-Feb-2020 08:54:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\post.php on line 20
+[05-Feb-2020 08:54:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 08:55:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\blocks\shortcode.php on line 16
+[05-Feb-2020 08:55:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-text.php on line 17
+[05-Feb-2020 08:56:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\custom-controls\slider\class-slider-control.php on line 7
+[05-Feb-2020 08:58:47 UTC] PHP Warning:  Terjadi galat tak terduga. Mungkin ada yang salah dengan WordPress.org atau konfigurasi server ini. Jika masalah berlanjut, silakan coba <a href="https://wordpress.org/support/forums/">forum dukungan</a>. (WordPress tidak bisa membuat sambungan aman ke WordPress.org. Silakan hubungi administrator server Anda.) in C:\xampp\htdocs\WP\wp-includes\update.php on line 388
+[05-Feb-2020 09:05:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\link-template.php on line 17
+[05-Feb-2020 09:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[05-Feb-2020 09:06:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-attachments-controller.php on line 17
+[05-Feb-2020 09:07:27 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\template.php on line 12
+[05-Feb-2020 09:23:37 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 1115
+[06-Feb-2020 01:39:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-walker.php on line 14
+[06-Feb-2020 01:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 01:40:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-walker-comment.php on line 17
+[06-Feb-2020 01:40:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 01:40:53 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\plugins\blossomthemes-instagram-feed\includes\widgets\widget-blossomthemes-instagram-feed.php on line 9
+[06-Feb-2020 01:40:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\plugins\classic-editor\classic-editor.php on line 24
+[06-Feb-2020 01:41:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-wp-screen.php on line 15
+[06-Feb-2020 02:19:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\option.php on line 30
+[06-Feb-2020 02:19:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 02:20:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\shortcodes.php on line 42
+[06-Feb-2020 02:20:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\fashion-diva\functions.php on line 3
+[06-Feb-2020 02:24:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-walker-comment.php on line 17
+[06-Feb-2020 02:24:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 02:25:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\template-functions.php on line 8
+[06-Feb-2020 02:25:50 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\media.php on line 16
+[06-Feb-2020 03:04:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-query.php on line 18
+[06-Feb-2020 03:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 03:05:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-embed.php on line 9
+[06-Feb-2020 03:05:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\fashion-diva\functions.php on line 3
+[06-Feb-2020 03:06:39 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\file.php on line 16
+[06-Feb-2020 03:10:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\user.php on line 33
+[06-Feb-2020 03:10:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 03:11:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets.php on line 26
+[06-Feb-2020 03:50:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\taxonomy.php on line 24
+[06-Feb-2020 03:51:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\wp-db.php on line 2030
+[06-Feb-2020 03:52:28 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\wp-db.php on line 2030
+[06-Feb-2020 03:55:22 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 1115
+[06-Feb-2020 04:03:51 UTC] PHP Notice:  Array to string conversion in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 1115
+[06-Feb-2020 04:07:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-customize-manager.php on line 23
+[06-Feb-2020 04:07:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\customizer\site.php on line 8
+[06-Feb-2020 06:56:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-user-query.php on line 17
+[06-Feb-2020 06:56:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[06-Feb-2020 06:58:11 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\blocks.php on line 26
+[06-Feb-2020 07:00:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
+[06-Feb-2020 07:02:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\embed.php on line 25
+[06-Feb-2020 07:04:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\bookmark.php on line 16
+[07-Feb-2020 07:07:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\plugins\classic-editor\classic-editor.php on line 24
+[07-Feb-2020 07:08:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\update.php on line 14
+[07-Feb-2020 07:32:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets.php on line 26
+[10-Feb-2020 01:57:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\comment-template.php on line 24
+[10-Feb-2020 01:57:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[10-Feb-2020 01:59:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\pluggable.php on line 9
+[10-Feb-2020 02:01:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
+[10-Feb-2020 02:02:00 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\wp-db.php on line 2030
+[10-Feb-2020 03:46:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-http-streams.php on line 16
+[10-Feb-2020 03:46:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\post.php on line 20
+[10-Feb-2020 03:56:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-http.php on line 10
+[10-Feb-2020 03:58:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-wp-screen.php on line 15
+[10-Feb-2020 08:50:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-post-type.php on line 17
+[10-Feb-2020 08:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[10-Feb-2020 08:50:45 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\comment-template.php on line 24
+[10-Feb-2020 08:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[10-Feb-2020 08:51:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-recent-posts.php on line 17
+[10-Feb-2020 08:51:21 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\Requests\Transport\cURL.php on line 15
+[10-Feb-2020 08:54:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\Requests\Transport\cURL.php on line 441
+[10-Feb-2020 08:54:36 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\functions.php on line 5782
+[11-Feb-2020 01:18:29 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 51
+[11-Feb-2020 01:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[11-Feb-2020 01:23:25 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-query.php on line 18
+[11-Feb-2020 01:23:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[11-Feb-2020 01:24:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\load.php on line 683
+[11-Feb-2020 01:24:40 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\Requests\Transport\cURL.php on line 163
+[11-Feb-2020 01:24:42 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\plugin.php on line 68
+[11-Feb-2020 01:24:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\functions.php on line 5782
+[11-Feb-2020 01:25:12 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\Requests\Transport\cURL.php on line 441
+[11-Feb-2020 01:28:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php on line 15
+[11-Feb-2020 01:31:16 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\update.php on line 24
+[11-Feb-2020 01:31:18 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\embed.php on line 25
+[11-Feb-2020 01:38:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-query.php on line 18
+[11-Feb-2020 01:38:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[11-Feb-2020 01:39:15 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\admin-bar.php on line 23
+[11-Feb-2020 01:42:09 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\functions.wp-scripts.php on line 20
+[11-Feb-2020 01:43:19 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\metabox.php on line 9
+[11-Feb-2020 01:43:26 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
+[11-Feb-2020 01:45:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class.wp-styles.php on line 18
+[11-Feb-2020 01:45:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\taxonomy.php on line 24
+[11-Feb-2020 01:58:22 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\endpoints\class-wp-rest-users-controller.php on line 17
+[11-Feb-2020 02:01:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\ajax-actions.php on line 22
+[11-Feb-2020 02:13:41 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\fashion-diva\functions.php on line 3
+[11-Feb-2020 02:15:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\template.php on line 23
+[11-Feb-2020 02:15:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[11-Feb-2020 02:17:43 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\post.php on line 20
+[11-Feb-2020 06:52:08 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\class-wp-query.php on line 18
+[11-Feb-2020 06:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_normalize_entities() in C:\xampp\htdocs\WP\wp-includes\formatting.php:4316
+Stack trace:
+#0 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(190): esc_url('https://wordpre...')
+#1 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(147): WP_Fatal_Error_Handler->display_default_error_template(Array, false)
+#2 C:\xampp\htdocs\WP\wp-includes\class-wp-fatal-error-handler.php(52): WP_Fatal_Error_Handler->display_error_template(Array, false)
+#3 [internal function]: WP_Fatal_Error_Handler->handle()
+#4 {main}
+  thrown in C:\xampp\htdocs\WP\wp-includes\formatting.php on line 4316
+[11-Feb-2020 06:53:57 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\widgets\class-wp-widget-text.php on line 17
+[11-Feb-2020 06:55:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\ajax-actions.php on line 22
+[11-Feb-2020 06:57:58 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-content\themes\blossom-fashion\inc\template-functions.php on line 8
+[11-Feb-2020 07:01:32 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-includes\rest-api\fields\class-wp-rest-meta-fields.php on line 15
+[11-Feb-2020 07:03:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\WP\wp-admin\includes\class-custom-image-header.php on line 14
